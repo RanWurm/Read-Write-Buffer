@@ -1,6 +1,6 @@
 //
 // Created by ran on 6/28/24.
-// ran wurembrand 315366039
+// ran wurembrand 
 #include "buffered_open.h"
 
 char* initialbuffers(){
